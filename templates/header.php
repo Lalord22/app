@@ -28,13 +28,13 @@ $url_base="http://localhost/app/";
             <a class="nav-link active" href="#" aria-current="page">Sistema Web <span class="visually-hidden">(current)</span></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="<?php echo $url_base;?>secciones/empleados/index.php">Empleados</a>
+            <a class="nav-link" href="<?php echo $url_base;?>secciones/empleados/">Empleados</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="<?php echo $url_base;?>secciones/puestos/index.php">Puestos</a>
+            <a class="nav-link" href="<?php echo $url_base;?>secciones/puestos/">Puestos</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="<?php echo $url_base;?>secciones/usuarios/index.php">Usuarios</a>
+            <a class="nav-link" href="<?php echo $url_base;?>secciones/usuarios/">Usuarios</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Log Out</a>
